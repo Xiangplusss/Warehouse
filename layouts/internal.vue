@@ -251,7 +251,6 @@ const toggleSidebar = () => {
 
 const toggleTheme = () => {
     isDark.value = !isDark.value;
-    // 这里可以添加主题切换的逻辑
 };
 
 const toggleUserMenu = () => {
