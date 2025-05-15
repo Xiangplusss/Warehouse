@@ -18,5 +18,4 @@ logs
 .fleet
 .idea
 
-package-lock.json
-nuxt.config.ts
+
