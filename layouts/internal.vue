@@ -262,7 +262,6 @@ const closeUserMenu = () => {
 };
 
 const handleLogout = () => {
-    // 这里添加登出逻辑
     console.log("用户登出");
     router.push("/");
     closeUserMenu();
